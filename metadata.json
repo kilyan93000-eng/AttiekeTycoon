@@ -1,0 +1,6 @@
+{
+  "name": "Attiéké Tycoon",
+  "description": "Jeu de gestion et d'automatisation de la chaîne de valeur du manioc en Côte d'Ivoire : agriculture, transformation artisanale et industrielle, gastronomie et exportation internationale en FCFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
